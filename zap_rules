@@ -3,4 +3,3 @@
 90022	IGNORE	(Application Error Disclosure - Passive/release)
 100000	IGNORE	(A Server Error response code was returned by the server)
 100001	IGNORE	(Unexpected Content-Type was returned)
-2  IGNORE  (Private IP Disclosure)
