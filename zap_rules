@@ -1,3 +1,5 @@
-10021   IGNORE  http://172.25.232.42:32590/v3/api-docs
-2   IGNORE  http://172.25.232.42:32590/v3/api-docs
-100001  IGNORE  http://172.25.232.42:32590/
+10021	IGNORE	(X-Content-Type-Options Header Missing - Passive/release)
+10023	IGNORE	(Information Disclosure - Debug Error Messages - Passive/release)
+90022	IGNORE	(Application Error Disclosure - Passive/release)
+100000	IGNORE	(A Server Error response code was returned by the server)
+100001	IGNORE	(Unexpected Content-Type was returned)
